@@ -9,5 +9,11 @@ public class Funciones1 {
 		else
 			return false;
 	}
-
+	public static boolean esImpar(int n)
+	{
+		if(n%2!=0)
+			return true;
+		else
+			return false;
+	}
 }
